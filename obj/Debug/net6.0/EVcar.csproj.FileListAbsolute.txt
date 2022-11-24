@@ -1,0 +1,15 @@
+C:\Users\hathaichanok\Desktop\EVcar\bin\Debug\net6.0\EVcar.exe
+C:\Users\hathaichanok\Desktop\EVcar\bin\Debug\net6.0\EVcar.deps.json
+C:\Users\hathaichanok\Desktop\EVcar\bin\Debug\net6.0\EVcar.runtimeconfig.json
+C:\Users\hathaichanok\Desktop\EVcar\bin\Debug\net6.0\EVcar.dll
+C:\Users\hathaichanok\Desktop\EVcar\bin\Debug\net6.0\EVcar.pdb
+C:\Users\hathaichanok\Desktop\EVcar\obj\Debug\net6.0\EVcar.csproj.AssemblyReference.cache
+C:\Users\hathaichanok\Desktop\EVcar\obj\Debug\net6.0\EVcar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hathaichanok\Desktop\EVcar\obj\Debug\net6.0\EVcar.AssemblyInfoInputs.cache
+C:\Users\hathaichanok\Desktop\EVcar\obj\Debug\net6.0\EVcar.AssemblyInfo.cs
+C:\Users\hathaichanok\Desktop\EVcar\obj\Debug\net6.0\EVcar.csproj.CoreCompileInputs.cache
+C:\Users\hathaichanok\Desktop\EVcar\obj\Debug\net6.0\EVcar.dll
+C:\Users\hathaichanok\Desktop\EVcar\obj\Debug\net6.0\refint\EVcar.dll
+C:\Users\hathaichanok\Desktop\EVcar\obj\Debug\net6.0\EVcar.pdb
+C:\Users\hathaichanok\Desktop\EVcar\obj\Debug\net6.0\EVcar.genruntimeconfig.cache
+C:\Users\hathaichanok\Desktop\EVcar\obj\Debug\net6.0\ref\EVcar.dll
