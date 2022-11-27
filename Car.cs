@@ -34,5 +34,5 @@ class Car
     public static double Percentage7 = 0.7;
     public static double Percentage8 = 0.8;
     public static double Percentage9 = 0.9;
-    public static double Percentage10 = 0.10;
+    public static double Percentage10 = 1.0;
 }
